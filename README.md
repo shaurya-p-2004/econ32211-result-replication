@@ -1,6 +1,6 @@
 # Infrastructure Without Adoption: The Causal Effect of Public EV Chargers on Battery Electric Vehicle Uptake and Its Distribution Across English Local Authorities
 
-**ECON32211 Applied Economics Dissertation | Student ID: 11020506**
+**ECON32212 Applied Economics B Dissertation | Student ID: 11020506**
 
 ## Overview
 This repository contains the data and R code to replicate all 
