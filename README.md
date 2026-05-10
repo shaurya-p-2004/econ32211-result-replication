@@ -1,6 +1,6 @@
 # Infrastructure Without Adoption: The Causal Effect of Public EV Chargers on Battery Electric Vehicle Uptake and Its Distribution Across English Local Authorities
 
-**ECON32212 Applied Economics B Dissertation | Student ID: 11020506**
+**ECON32211 Applied Economics  Dissertation | Student ID: 11020506**
 
 ## Overview
 This repository contains the data and R code to replicate all 
@@ -15,7 +15,7 @@ install.packages(c("fixest", "ivreg", "dplyr", "tidyr", "ggplot2"))
 
 ## How to Replicate
 1. Clone or download this repository
-2. Open Panel_Clean.R in RStudio
+2. Open Panel_Analysis_Github.R in RStudio
 3. Set your working directory to the root of this folder
 4. Run the script in full — all tables and figures are 
    produced in the order they appear in the dissertation
